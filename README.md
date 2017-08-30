@@ -4,7 +4,7 @@ QtQuick/QML demonstration - an application that shows a charging battery. No con
 
 ![QML Battery charging](/images/battery-screenshot.png?raw=true "QML Battery charging")
 
-99% of the code is taken from [QUIt Coding](http://quitcoding.com/?page=work#quitbattery), so read also the original [README](/README.original.md) too.
+99% of the code is taken from [QUIt Coding](http://quitcoding.com/?page=work#quitbattery), so read the original [README](/README.original.md) too.
 
 ## License
 
