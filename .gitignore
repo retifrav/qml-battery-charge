@@ -1,0 +1,5 @@
+*.user
+Android/*properties*
+Android/*gradle*
+Android/res/
+

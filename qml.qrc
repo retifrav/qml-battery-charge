@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>QUItBattery.qml</file>
+        <file>Slider.qml</file>
+        <file>ToggleButton.qml</file>
+        <file>images/arrows.png</file>
+        <file>images/background2.jpg</file>
+        <file>images/bar_level2.png</file>
+        <file>images/battery_bar.png</file>
+        <file>images/battery2.png</file>
+        <file>images/glass.png</file>
+        <file>images/handle.png</file>
+        <file>images/lightning.png</file>
+        <file>images/particle.png</file>
+        <file>images/plug.png</file>
+        <file>images/rotate.png</file>
+        <file>images/toggle.png</file>
+    </qresource>
+</RCC>
